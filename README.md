@@ -15,13 +15,13 @@ Liste des commandes disponibles :
 
 ## English - RSS Reader on Terminal
 
-TUI RSS is a Rust application which allows you to list all your favorites RSS flow and get all articles on it.
+TUI RSS is a Rust application which allows you to list all your favorites RSS feed and get all articles on it.
 
-You can add all RSS flows of your choice in data/db.json
+You can add all RSS feeds of your choice in data/db.json
 
 Commands allowed : 
 
-- Up/Down : Choose a RSS flow
+- Up/Down : Choose a RSS feed
 - Left/Right : Choose an article
 - Enter : See the article on your browser
 - q : Quit
