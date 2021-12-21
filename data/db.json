@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Challenges",
+        "link": "https://www.challenges.fr/rss.xml"
+    },
+    {
+        "name": "Historia",
+        "link": "https://www.historia.fr/flux-rss.xml"
+    },
+    {
+        "name": "Huffington Post",
+        "link": "https://www.huffingtonpost.fr/feeds/index.xml"
+    },
+    {
+      "name": "Jeux vidéo.com",
+      "link": "https://www.jeuxvideo.com/rss/rss.xml"
+    },
+    {
+        "name": "L'Express",
+        "link": "https://www.lexpress.fr/rss/alaune.xml"
+    },
+    {
+      "name": "Le Figaro",
+      "link": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    },
+    {
+      "name": "Le Monde",
+      "link": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+        "name": "Marianne",
+        "link": "https://www.marianne.net/rss.xml"
+    },
+    {
+        "name": "Sénat - Presse",
+        "link": "https://www.senat.fr/rss/presse.rss"
+    }
+  ]
